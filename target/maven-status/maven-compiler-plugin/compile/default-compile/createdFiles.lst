@@ -1,0 +1,14 @@
+com\dernek\mindos\controller\NewsController.class
+com\dernek\mindos\controller\AnnouncmentController.class
+com\dernek\mindos\controller\FileController.class
+com\dernek\mindos\model\News.class
+com\dernek\mindos\controller\SubscribeMappingController.class
+com\dernek\mindos\controller\FileController$GlobalExceptionHandler.class
+com\dernek\mindos\MindosApplication.class
+com\dernek\mindos\model\Announcement.class
+com\dernek\mindos\model\PostEntity.class
+com\dernek\mindos\controller\MessageMappingController.class
+com\dernek\mindos\webSocket\Message.class
+com\dernek\mindos\services\FileService.class
+com\dernek\mindos\repository\AnnouncementRepository.class
+com\dernek\mindos\webSocket\StompWebSocketConfig.class
